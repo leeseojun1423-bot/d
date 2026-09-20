@@ -6,7 +6,7 @@ local input = io.read()
 if input == KEY then
     print("✅ KEY 인증 성공!")
 
-    -- 여기에 인증 후 실행할 코드
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/leeseojun1423-bot/d/refs/heads/main/Main.lua"))()
 
 else
     print("❌ KEY가 올바르지 않습니다.")
