@@ -9,8 +9,7 @@ local PlayerGui = Player:WaitForChild("PlayerGui")
 -- 설정
 -- =========================================================
 
-local API_URL =
-    "https://elementary-gage-dimensions-clerk.trycloudflare.com/validate"
+local API_URL = "https://vacations-formed-produce-denied.trycloudflare.com"
 
 -- =========================================================
 -- ScreenGui
